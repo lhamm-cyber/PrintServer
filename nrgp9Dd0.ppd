@@ -1,5 +1,7 @@
-*MSPrintSchemaPrivateNamespaceURI: "http://schemas.ricoh.com/2007/printing/ppdprivatekeywords"
 *PPD-Adobe: "4.3"
+*FormatVersion: "4.3"
+*MSPrintSchemaPrivateNamespaceURI: "http://schemas.ricoh.com/2007/printing/ppdprivatekeywords"
+
 *%
 *%  Printer Description file
 *%    for "NRG Pro 8400S PS"
